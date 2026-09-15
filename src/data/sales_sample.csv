@@ -1,0 +1,6 @@
+sale_id,employee_id,date,product,quantity,sales
+1,101,2026-09-01,Laptop,2,100000
+2,102,2026-09-01,Mouse,10,5000
+3,101,2026-09-02,Keyboard,5,7500
+4,103,2026-09-02,Monitor,2,30000
+5,102,2026-09-03,Laptop,1,50000
